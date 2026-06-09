@@ -39,6 +39,9 @@ HEADERS = {
     "content-type": "application/json",
     "origin": "https://nhpr.abdm.gov.in",
     "referer": "https://nhpr.abdm.gov.in/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
 }
 
 
